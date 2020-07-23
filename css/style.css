@@ -23,6 +23,15 @@
 .opacity {
   opacity: 0.9;
 }
+.card:hover {
+  filter: contrast(80%);
+}
+a {
+  color: black;
+}
+a:hover {
+  color: #00b300;
+}
 body {
   font-family: Inter;
   font-weight: 400;
