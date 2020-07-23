@@ -20,6 +20,9 @@
 	16. Applications
 */
 /* 1. Common styles */
+.hover:hover {
+  filter: contrast(80%);
+}
 .opacity {
   opacity: 0.9;
 }
